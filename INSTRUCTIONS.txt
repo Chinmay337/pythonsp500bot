@@ -1,0 +1,12 @@
+1.Open command line and run command "pip install yfinance" to install yfinance Python module
+2.Run the Runfile.py file in the final project zip
+3.Enter number of companies to invest in (1-100)
+4.Enter sector to invest in (enter number)
+5.Enter investment strategy (enter number)
+6.Wait for bot to return a list of companies. (may take some time)
+
+IMPORTANT NOTES:
+> If bot is taking too long due to slow internet, choose Energy(11) for sector, as this has the fewest number of companies.
+
+> Run the program from command line instead of clicking on Runfile.py
+
